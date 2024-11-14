@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+## About me
+With an academic background in Economics, Mathematics and Computer Sciences, my career began in economic research where I had the pleasure of working with academics to design, implement and evaluate a research study in public health – after the completion of my BSc. (Hons.) in Economics with a minor in Mathematics. The exposure to working with data and various analytical methods heightened my interest in data science methods. Recognizing this interest for deeper data science knowledge, I pursued my Master of Data Science from the University of British Columbia in 2023. During the course of the master’s program, I had the opportunity of collaborating with peers from a plethora of domains on a multitude of projects ranging from predictive analytics to software development. Following the completion of the course, in order to build on my passion for data-driven insights, I also founded [PegasusAI](https://www.pegasusaiconsulting.com/), where I serve as the Data Scientist and Lead Economist, channeling my expertise to craft innovative AI solutions that empower businesses. In addition to this, I am currently engaged at the Pakistan Canada Trade Association as a Commercial Attache.
 ## My Skills
 ### 📋 Languages
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
